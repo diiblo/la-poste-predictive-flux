@@ -1,5 +1,5 @@
 """
-collect_meteo.py.py
+collect_meteo.py
 
 Récupère les données météos de la ville de Paris de 2023 à 2024
 

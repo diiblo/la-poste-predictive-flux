@@ -21,44 +21,44 @@ Objectif : optimiser les ressources (personnel, véhicules, machines) en anticip
 ## 📌 TODO
 ### 📁 Préparation des données
 
-- [x] Collecter les données open data La Poste, météo, jours fériés ✅ 2025-06-02
+- [x] Collecter les données open data La Poste, météo, jours fériés #data ✅ 2025-06-02
     
-- [ ] Nettoyer et standardiser les données
+- [x] Nettoyer et standardiser les données #data ✅ 2025-06-02
     
-- [ ] Créer des features pertinentes (météo, jours fériés, tendances)
+- [x] Créer des features pertinentes (météo, jours fériés, tendances) #data ✅ 2025-06-02
     
-- [ ] Sauvegarder les datasets nettoyés dans PostgreSQL
+- [x] Sauvegarder les datasets nettoyés dans PostgreSQL #data ✅ 2025-06-02
     
 
 ### 🤖 Modélisation
 
-- [ ] Exploration des données (EDA)
+- [x] Exploration des données (EDA) #model ✅ 2025-06-02
     
-- [ ] Choisir un modèle (Random Forest, XGBoost, etc.)
+- [ ] Choisir un modèle (Random Forest, XGBoost, etc.) #model
     
-- [ ] Entraîner les modèles
+- [ ] Entraîner les modèles #model
     
-- [ ] Évaluer la performance (cross-validation, métriques)
+- [ ] Évaluer la performance (cross-validation, métriques) #model
     
-- [ ] Ajuster les hyperparamètres
+- [ ] Ajuster les hyperparamètres #model
     
 
 ### 📊 Dashboarding
 
-- [ ] Concevoir un Streamlit app pour visualiser les prédictions
+- [ ] Concevoir un Streamlit app pour visualiser les prédictions #dashboard
     
-- [ ] Ou un Power BI interactif
+- [ ] Ou un Power BI interactif #dashboard
     
 
 ### ☁️ Déploiement
 
-- [ ] Créer les DAGs Airflow pour automatiser l’ETL et la prédiction
+- [ ] Créer les DAGs Airflow pour automatiser l’ETL et la prédiction #deployment
     
-- [ ] Déployer le modèle (API REST ou batch)
+- [ ] Déployer le modèle (API REST ou batch) #deployment
     
 
 ### 📚 Documentation
 
-- [ ] Documenter chaque étape (README, diagrammes draw.io)
+- [ ] Documenter chaque étape (README, diagrammes draw.io) #docs
     
-- [ ] Mettre à jour le TODO et la doc sur GitHub
+- [ ] Mettre à jour le TODO et la doc sur GitHub #docs
