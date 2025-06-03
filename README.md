@@ -21,7 +21,7 @@ Objectif : optimiser les ressources (personnel, véhicules, machines) en anticip
 ## 📌 TODO
 ### 📁 Préparation des données
 
-- [x] Collecter les données open data La Poste, météo, jours fériés #data ✅ 2025-06-02
+- [x] Collecter les données La Poste (générées), météo, jours fériés #data ✅ 2025-06-02
     
 - [x] Nettoyer et standardiser les données #data ✅ 2025-06-02
     
