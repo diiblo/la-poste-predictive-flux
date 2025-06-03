@@ -34,13 +34,13 @@ Objectif : optimiser les ressources (personnel, véhicules, machines) en anticip
 
 - [x] Exploration des données (EDA) #model ✅ 2025-06-02
     
-- [ ] Choisir un modèle (Random Forest, XGBoost, etc.) #model
+- [x] Choisir un modèle (Random Forest, XGBoost, etc.) #model ✅ 2025-06-04
     
-- [ ] Entraîner les modèles #model
+- [x] Entraîner les modèles #model ✅ 2025-06-04
     
-- [ ] Évaluer la performance (cross-validation, métriques) #model
+- [x] Évaluer la performance (cross-validation, métriques) #model ✅ 2025-06-04
     
-- [ ] Ajuster les hyperparamètres #model
+- [x] Ajuster les hyperparamètres #model ✅ 2025-06-04
     
 
 ### 📊 Dashboarding
